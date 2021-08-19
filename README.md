@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="johnjoker13| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/joão-oliveira-14a27b1a0)
+[<img align="left" alt="johnjoker13| LinkedIn" width="15%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](www.linkedin.com/in/joão-oliveira-14a27b1a0)
 
 <br />
 
@@ -64,3 +64,9 @@
 [<code>
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
+
+</br>
+
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnjoker13&show_icons=true&theme=radical)
+
