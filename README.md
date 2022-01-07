@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="joaoOLiveiraLinkedin| LinkedIn" width="15%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](www.linkedin.com/in/joão-oliveira-14a27b1a0)
+[<img align="left" alt="joaoOLiveiraLinkedin| LinkedIn" width="15%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/joão-oliveira-14a27b1a0)
 
 <br />
 
