@@ -24,5 +24,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnjoker13&show_icons=true&theme=radical)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnjoker13&count_private=true&show_icons=true&theme=algolia)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnjoker13&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
