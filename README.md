@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm João(John) Oliveira👨‍💻
 
-- 🇧🇷 Brazil, Sao Paulo.
-- 🏫 Web Development Student at Trybe | Fullstack Developer
-- 🌱 Computer Science | Front-End & Back-End Development
-- 🥅 2022/2023 Goal: First Job as Junior Fullstack Developer
+- 🇧🇷 Brazil, Sao Paulo, SP.
+- 🏫 Software Engineering student.
+- 🌱 Computer Science | Fullstack Development.
+- 🥅 2023/2024 Goal: Find a Job as a Junior Fullstack Developer/ Backend Developer.
 
 ### Connect with me:
 
