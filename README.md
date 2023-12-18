@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm João(John)👨‍💻
 
 - 🇧🇷 Brazil, SP
-- Software Developer | C# | ASP.NET
+- Software Developer | C# | ASP.NET | .NET
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnjoker13&count_private=true&show_icons=true&theme=algolia)
 
